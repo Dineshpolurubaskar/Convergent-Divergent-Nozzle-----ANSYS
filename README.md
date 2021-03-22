@@ -1,4 +1,4 @@
-# Nozzle-----Con-Di
+# Convergent-Divergent Nozzle ---- ANSYS
 
 This Project is a visualization of Mach Number, Velocity and Pressure inside a Convergent - Divergent Nozzle. The details of this project is represented in the report.
 
